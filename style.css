@@ -4,33 +4,28 @@ body
 	font-family: Verdana;
 	font-size: 20px;
 	color: white;
-	<center>
 }
 
 h1
 {
 	font-size: 48px;
 	color: purple !important;
-	<center>
 }
 
 /* Nieodwiedzony link */
 a:link
 {
 	color: white;
-	<center>
 }
 
 /* Odwiedzony link */
 a:visited
 {
 	color:white;
-	<center>
 }
 
 /* Link po najechaniu kursorem */
 a:hover
 {
 	color: red;
-	<center>
 }
